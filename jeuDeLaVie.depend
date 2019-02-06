@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549198345 source:c:\users\vixenntal\desktop\04.02.2019_jeudelavie\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+
+1549197593 c:\users\vixenntal\desktop\04.02.2019_jeudelavie\fonctions.h
+
+1549198597 source:c:\users\vixenntal\desktop\04.02.2019_jeudelavie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+

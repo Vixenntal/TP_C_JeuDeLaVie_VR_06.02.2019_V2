@@ -1,0 +1,159 @@
+Nombre de cellules mortes : 207
+Nombre de cellules vivantes : 18
+
+Nombre de cellules mortes : 210
+Nombre de cellules vivantes : 15
+
+Nombre de cellules mortes : 212
+Nombre de cellules vivantes : 13
+
+Nombre de cellules mortes : 212
+Nombre de cellules vivantes : 13
+
+Nombre de cellules mortes : 215
+Nombre de cellules vivantes : 10
+
+Nombre de cellules mortes : 214
+Nombre de cellules vivantes : 11
+
+Nombre de cellules mortes : 217
+Nombre de cellules vivantes : 8
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 213
+Nombre de cellules vivantes : 12
+
+Nombre de cellules mortes : 214
+Nombre de cellules vivantes : 11
+
+Nombre de cellules mortes : 207
+Nombre de cellules vivantes : 18
+
+Nombre de cellules mortes : 214
+Nombre de cellules vivantes : 11
+
+Nombre de cellules mortes : 214
+Nombre de cellules vivantes : 11
+
+Nombre de cellules mortes : 215
+Nombre de cellules vivantes : 10
+
+Nombre de cellules mortes : 212
+Nombre de cellules vivantes : 13
+
+Nombre de cellules mortes : 209
+Nombre de cellules vivantes : 16
+
+Nombre de cellules mortes : 206
+Nombre de cellules vivantes : 19
+
+Nombre de cellules mortes : 206
+Nombre de cellules vivantes : 19
+
+Nombre de cellules mortes : 202
+Nombre de cellules vivantes : 23
+
+Nombre de cellules mortes : 200
+Nombre de cellules vivantes : 25
+
+Nombre de cellules mortes : 190
+Nombre de cellules vivantes : 35
+
+Nombre de cellules mortes : 200
+Nombre de cellules vivantes : 25
+
+Nombre de cellules mortes : 193
+Nombre de cellules vivantes : 32
+
+Nombre de cellules mortes : 198
+Nombre de cellules vivantes : 27
+
+Nombre de cellules mortes : 188
+Nombre de cellules vivantes : 37
+
+Nombre de cellules mortes : 195
+Nombre de cellules vivantes : 30
+
+Nombre de cellules mortes : 179
+Nombre de cellules vivantes : 46
+
+Nombre de cellules mortes : 186
+Nombre de cellules vivantes : 39
+
+Nombre de cellules mortes : 180
+Nombre de cellules vivantes : 45
+
+Nombre de cellules mortes : 195
+Nombre de cellules vivantes : 30
+
+Nombre de cellules mortes : 194
+Nombre de cellules vivantes : 31
+
+Nombre de cellules mortes : 196
+Nombre de cellules vivantes : 29
+
+Nombre de cellules mortes : 202
+Nombre de cellules vivantes : 23
+
+Nombre de cellules mortes : 197
+Nombre de cellules vivantes : 28
+
+Nombre de cellules mortes : 198
+Nombre de cellules vivantes : 27
+
+Nombre de cellules mortes : 192
+Nombre de cellules vivantes : 33
+
+Nombre de cellules mortes : 202
+Nombre de cellules vivantes : 23
+
+Nombre de cellules mortes : 198
+Nombre de cellules vivantes : 27
+
+Nombre de cellules mortes : 195
+Nombre de cellules vivantes : 30
+
+Nombre de cellules mortes : 190
+Nombre de cellules vivantes : 35
+
+Nombre de cellules mortes : 210
+Nombre de cellules vivantes : 15
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
+Nombre de cellules mortes : 216
+Nombre de cellules vivantes : 9
+
